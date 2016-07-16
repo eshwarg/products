@@ -10,4 +10,8 @@ class User
     first_name + "  " +   last_name
   end
 
+  def surname
+    last_name
+  end
+  
 end
